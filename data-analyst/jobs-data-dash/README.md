@@ -90,22 +90,6 @@ This project was developed to:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Overview Dashboard
-- Job trends visualization
-- Salary comparison analysis
-- Interactive filtering
-- Job distribution charts
-
-### Detailed Dashboard
-- Global job map
-- WFH analysis
-- Degree requirement insights
-- Platform comparison
-
----
-
 ## 🙌 Credits
 
 This project is inspired by the work and tutorial content created by:
